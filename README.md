@@ -47,6 +47,9 @@ Service	                      Fast2SMS API (to send SMS messages).
 Permissions	                  Location, sensors, and internet access.
 Python Libraries	          androidhelper, requests, collections.deque, threading.
 Emergency Contact	          A valid Indian phone number.
+
+
+# Run
 How to Set Up
 Install QPython:
 
@@ -67,9 +70,6 @@ Replace "9745098490" with the phone number of your emergency contact.
 Run the App:
 
 Open QPython, load the script, and run it.
-
-# Run
-[commands]
 
 ### Project Documentation
 For Software:
