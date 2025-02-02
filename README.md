@@ -39,7 +39,34 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+Summary of Requirements
+Category	                  Requirement
+Device	                      Android smartphone with accelerometer, GPS, and internet connectivity.
+App	                          QPython (to run Python scripts on Android).
+Service	                      Fast2SMS API (to send SMS messages).
+Permissions	                  Location, sensors, and internet access.
+Python Libraries	          androidhelper, requests, collections.deque, threading.
+Emergency Contact	          A valid Indian phone number.
+How to Set Up
+Install QPython:
+
+Download and install QPython from the Google Play Store.
+
+Get an API Key:
+
+Sign up on Fast2SMS and get your API key.
+
+Add the API Key:
+
+Replace "your_fast2sms_api_key_here" in the code with your actual API key.
+
+Set Emergency Contact:
+
+Replace "9745098490" with the phone number of your emergency contact.
+
+Run the App:
+
+Open QPython, load the script, and run it.
 
 # Run
 [commands]
