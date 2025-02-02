@@ -14,7 +14,7 @@
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+The Guardian X enhances road safety by detecting collisions, predicting threats, and providing real-time alerts. It integrates accelerometer data, GPS tracking, Bluetooth communication, and emergency notifications to reduce accident response time and improve driver awareness.
 
 ### The Problem statement
 [What ridiculous problem are you solving?]
