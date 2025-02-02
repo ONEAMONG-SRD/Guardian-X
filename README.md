@@ -26,10 +26,10 @@ We solved this problem by developing the Guardian X that uses accelerometer data
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- python
+- SL4A
+- androidhelper,requests,collection.deque,time
+- QPython,Fast2SMS API
 
 For Hardware:
 - [List main components]
@@ -59,7 +59,41 @@ For Software:
 *Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
++-------------------+
+|  Initialization   |
++-------------------+
+          |
+          v
++-------------------+
+|  Display Menu     |
++-------------------+
+          |
+          v
++-------------------+       +-------------------+
+| Check Sensor Status| <----|                   |
++-------------------+       |                   |
+          |                 |                   |
+          v                 |                   |
++-------------------+       |                   |
+| Send Test Message | <----|                   |
++-------------------+       |                   |
+          |                 |                   |
+          v                 |                   |
++-------------------+       |                   |
+| Start Collision   | <----|                   |
+| Detection         |       |                   |
++-------------------+       |                   |
+          |                 |                   |
+          v                 |                   |
++-------------------+       |                   |
+| Emergency Message | <----|                   |
+| System            |       |                   |
++-------------------+       |                   |
+          |                 |                   |
+          v                 |                   |
++-------------------+       |                   |
+| Exit              | <----|                   |
++-------------------+       |                   |
 *Add caption explaining your workflow*
 
 For Hardware:
