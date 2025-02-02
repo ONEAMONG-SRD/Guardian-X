@@ -77,9 +77,10 @@ For Software:
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
-![car image](asset/car.png) 
+![ss1 image](asset/ss1.png) 
 
-![car image](asset/screen.png) 
+![ss2 image](asset/ss2.png) 
+![ss3 image](asset/ss3.png) 
 *
 
 ![Screenshot3](Add screenshot 3 here with proper name)
