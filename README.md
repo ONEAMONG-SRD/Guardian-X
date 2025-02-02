@@ -6,9 +6,9 @@
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Silpa KS - Amal Jothi College Of Engineering
+- Member 2: Diya Roy -  Amal Jothi College Of Engineering
+- Member 3: Rose Mathew -  Amal Jothi College Of Engineering
 
 ### Hosted Project Link
 [mention your project hosted project link here]
