@@ -17,10 +17,11 @@
 The Guardian X enhances road safety by detecting collisions, predicting threats, and providing real-time alerts. It integrates accelerometer data, GPS tracking, Bluetooth communication, and emergency notifications to reduce accident response time and improve driver awareness.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+**Problem Statement:**  
+Road accidents are a leading cause of fatalities due to delayed emergency response and lack of real-time threat detection. Existing safety measures often fail to provide immediate alerts or predictive warnings to drivers. Our Intelligent Vehicle Safety System addresses this gap by integrating collision detection, threat prediction, and emergency communication to enhance road safety and reduce accident response time.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+We solved this problem by developing the Guardian X that uses accelerometer data for collision detection, GPS for location tracking, and predictive analytics to assess potential threats. The system provides real-time alerts via voice/text instructions, emergency SMS notifications, and Bluetooth communication with nearby vehicles, ensuring faster response and improved road safety.
 
 ## Technical Details
 ### Technologies/Components Used
